@@ -5,7 +5,7 @@
         <item>
             <title>4.0.7</title>
             <pubDate>Fri, 06 Jun 2025 10:47:47 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>4.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/mlanoe/sparkle/refs/heads/main/SOS%20Photos.zip" length="16669420" type="application/octet-stream" sparkle:edSignature="J5l5t4ZaXiSD2xr5EEkZwNIsf++AoAO95Uf9YbcriejlHbHsG0Nmv2JlMa/60PUpfRrrDsgMsQJZ6ah0WXcMAQ=="/>
